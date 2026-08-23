@@ -53,9 +53,9 @@ Aspirante a Desenvolvedor de Software focado na criação de soluções eficient
 
 ### 🚀 Projetos em Destaque
 
-> *Em breve, você encontrará aqui meus 3 principais projetos demonstrando na prática habilidades em Full Stack, Banco de Dados e Inteligência Artificial!*
+> *Projetos desenvolvidos para demonstrar na prática habilidades em Desenvolvimento Full Stack, Arquitetura de APIs, Banco de Dados e Automação!*
 
-1. 🔹 **[Nome do Projeto 1]**: *Breve descrição de uma linha sobre o projeto.*
+1. 🔹 **[TaskMaster Web App](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)**: *Sistema web Full Stack para gestão de tarefas com front-end responsivo (JS Vanilla) e API RESTful em Python (FastAPI/SQLite).*
 2. 🔹 **[Nome do Projeto 2]**: *Breve descrição de uma linha sobre o projeto.*
 3. 🔹 **[Nome do Projeto 3]**: *Breve descrição de uma linha sobre o projeto.*
 
