@@ -57,8 +57,6 @@ Aspirante a Desenvolvedor de Software focado na criação de soluções eficient
 Organizo meus repositórios em três níveis, para deixar claro o estágio de cada projeto — da fixação de fundamentos até sistemas completos em produção.
 
 ### 🟢 Nível Básico
-Projetos curtos, um por conceito, usados para fixar a sintaxe e os fundamentos de cada tecnologia.
-
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
 | [python-todo-cli](https://github.com/Rafael-Pedra-7325/python-todo-cli) | Python | Lista de tarefas em linha de comando, com persistência em JSON. |
@@ -73,9 +71,18 @@ Projetos curtos, um por conceito, usados para fixar a sintaxe e os fundamentos d
 | [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária com herança e exceções personalizadas. |
 
 ### 🟡 Nível Intermediário
-Projetos com mais de um componente (banco de dados + regras de negócio + API), geralmente em equipe.
-
-* 🔧 **MobCar** *(em desenvolvimento, com equipe)* — Plataforma para cidadãos denunciarem infrações de trânsito no DF, com estatísticas públicas agregadas e planos pagos de acesso à API (Free, Developer, Business, Enterprise). Inclui modelagem de banco de dados relacional completa.
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api) | Python (Flask) | API REST para gestão de acervo e empréstimos de biblioteca, com autenticação JWT e testes automatizados. |
+| [gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco) | Python (Flask) | Aplicação web full stack para controle financeiro pessoal, com gráfico de despesas em Canvas puro. |
+| [agenda-clinica-java](https://github.com/Rafael-Pedra-7325/agenda-clinica-java) | Java | Sistema de agendamento de consultas, com verificação de conflito de horário e exportação de relatórios em CSV. |
+| [suporte-bot](https://github.com/Rafael-Pedra-7325/suporte-bot) | Python (Flask) | Chatbot de atendimento baseado em regras, com widget de chat web e reconhecimento de intenções. |
+| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | Jogo da velha com IA invencível usando o algoritmo Minimax. |
+| [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python (pandas) | Pipeline de dados e dashboard estático com Chart.js sobre ocorrências de trânsito no DF (dados sintéticos). |
+| [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python (Flask) | Ferramenta web de visão computacional clássica que extrai brilho, temperatura de cor e paleta dominante de imagens. |
+| [radar-de-rede](https://github.com/Rafael-Pedra-7325/radar-de-rede) | Python | Analisador de logs de rede que detecta padrões suspeitos como port scan e força bruta. |
+| [loja-facil](https://github.com/Rafael-Pedra-7325/loja-facil) | Python (Flask) | E-commerce simplificado com catálogo, carrinho baseado em sessão e checkout simulado. |
+| [adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api) | Python (Flask) | API REST para adoção de pets, com autenticação JWT, testes automatizados e integração contínua via GitHub Actions. |
 
 ### 🔴 Nível Avançado / Profissional
 Sistemas completos, com arquitetura Full Stack e boas práticas de engenharia de software.
