@@ -51,13 +51,38 @@ Aspirante a Desenvolvedor de Software focado na criação de soluções eficient
 
 ---
 
-### 🚀 Projetos em Destaque
+## 📂 Projetos por Nível
 
-> *Projetos desenvolvidos para demonstrar na prática habilidades em Desenvolvimento Full Stack, Arquitetura de APIs, Banco de Dados e Automação!*
+Organizo meus repositórios em três níveis, para deixar claro o estágio de cada projeto — da fixação de fundamentos até sistemas completos em produção.
 
-1. 🔹 **[TaskMaster Web App](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)**: *Sistema web Full Stack para gestão de tarefas com front-end responsivo (JS Vanilla) e API RESTful em Python (FastAPI/SQLite).*
-2. 🔹 **[Educational Platform Engine (SQL & Python API)](https://github.com/Rafael-Pedra-7325/edu-platform-database-api.git)**: *Sistema backend conteinerizado para plataformas de ensino com modelagem relacional avançada (triggers, procedures e índices) integrado a uma API assíncrona em FastAPI e SQLAlchemy.*
-3. 🔹 **[Nome do Projeto 3]**: *Breve descrição de uma linha sobre o projeto.*
+### 🟢 Nível Básico
+Projetos curtos, um por conceito, usados para fixar a sintaxe e os fundamentos de cada tecnologia.
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [python-todo-cli](https://github.com/Rafael-Pedra-7325/python-todo-cli) | Python | Lista de tarefas em linha de comando, com persistência em JSON. |
+| [java-calculadora-oop](https://github.com/Rafael-Pedra-7325/java-calculadora-oop) | Java | Calculadora de console estruturada em Programação Orientada a Objetos. |
+| [c-media-notas](https://github.com/Rafael-Pedra-7325/c-media-notas) | C | Cálculo de média de notas de alunos usando structs e vetores. |
+| [js-todo-dom](https://github.com/Rafael-Pedra-7325/js-todo-dom) | JavaScript | Lista de tarefas web com manipulação de DOM e localStorage. |
+| [sql-biblioteca](https://github.com/Rafael-Pedra-7325/sql-biblioteca) | SQL | Banco de dados relacional de uma biblioteca, com joins e agregações. |
+| [python-algoritmos](https://github.com/Rafael-Pedra-7325/python-algoritmos) | Python | Fibonacci, fatorial, ordenação e busca binária implementados do zero. |
+| [python-estruturas-dados](https://github.com/Rafael-Pedra-7325/python-estruturas-dados) | Python | Implementação manual de Pilha (LIFO) e Fila (FIFO). |
+| [html-css-landing-portfolio](https://github.com/Rafael-Pedra-7325/html-css-landing-portfolio) | HTML/CSS | Landing page responsiva com Flexbox e CSS Grid. |
+| [python-consumo-api](https://github.com/Rafael-Pedra-7325/python-consumo-api) | Python | Consumo da API pública ViaCEP para busca de endereços. |
+| [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária com herança e exceções personalizadas. |
+
+### 🟡 Nível Intermediário
+Projetos com mais de um componente (banco de dados + regras de negócio + API), geralmente em equipe.
+
+* 🔧 **MobCar** *(em desenvolvimento, com equipe)* — Plataforma para cidadãos denunciarem infrações de trânsito no DF, com estatísticas públicas agregadas e planos pagos de acesso à API (Free, Developer, Business, Enterprise). Inclui modelagem de banco de dados relacional completa.
+
+### 🔴 Nível Avançado / Profissional
+Sistemas completos, com arquitetura Full Stack e boas práticas de engenharia de software.
+
+1. 🔹 **[TaskMaster Web App](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** — Sistema web Full Stack para gestão de tarefas com front-end responsivo (JS Vanilla) e API RESTful em Python (FastAPI/SQLite).
+2. 🔹 **[Educational Platform Engine (SQL & Python API)](https://github.com/Rafael-Pedra-7325/edu-platform-database-api.git)** — Sistema backend conteinerizado para plataformas de ensino com modelagem relacional avançada (triggers, procedures e índices), integrado a uma API assíncrona em FastAPI e SQLAlchemy.
+
+*Mais projetos profissionais em breve, à medida que forem publicados.*
 
 ---
 
