@@ -13,7 +13,7 @@ Desenvolvedor Full Stack em formação e estudante de Ciência da Computação n
 
 | Projeto | Tecnologias | O que é |
 |---|---|---|
-| [taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app) | JavaScript, Python, FastAPI, SQLite | Sistema web Full Stack para gestão de tarefas, com front-end responsivo e API RESTful. |
+| [taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app) | JavaScript, Python, FastAPI, SQLAlchemy, SQLite | Sistema web Full Stack para gestão de tarefas, com front-end em JavaScript puro e API RESTful. |
 | [edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api) | Python, FastAPI, SQLAlchemy, SQL, Docker | Back-end conteinerizado para plataformas de ensino, com modelagem relacional (triggers, procedures e índices) e API assíncrona. |
 | [biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api) | Python, Flask, JWT | API REST para gestão de acervo e empréstimos de biblioteca, com autenticação JWT e testes automatizados. |
 | [adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api) | Python, Flask, JWT, GitHub Actions | API REST para adoção de pets, com autenticação JWT, testes automatizados e integração contínua. |
@@ -36,27 +36,39 @@ Desenvolvedor Full Stack em formação e estudante de Ciência da Computação n
 
 **Ferramentas:** Git · GitHub · GitHub Actions · Docker · Linux · VS Code · PyCharm · Power BI
 
-**Dados e IA:** pandas · análise exploratória · estatística · fundamentos de IA (busca heurística, lógica fuzzy, PROLOG) · visão computacional
+**Dados e IA:** pandas · análise exploratória · estatística · busca heurística · lógica fuzzy · PROLOG · visão computacional
 
 ---
 
-## 📂 Outros projetos
+## 📂 Projetos por área
+
+Os repositórios estão agrupados por área de conhecimento. Abra cada seção para ver os projetos.
 
 <details>
-<summary><b>Back-end e APIs</b></summary>
+<summary><b>Aplicações Full Stack (3)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [agenda-clinica-java](https://github.com/Rafael-Pedra-7325/agenda-clinica-java) | Java | Agendamento de consultas, com verificação de conflito de horário e exportação de relatórios em CSV. |
+| [taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app) | JavaScript, Python, FastAPI | Gestão de tarefas com front-end em JavaScript puro e API RESTful. |
+| [gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco) | Python, Flask, JavaScript | Controle financeiro pessoal, com gráfico de despesas em Canvas puro. |
 | [loja-facil](https://github.com/Rafael-Pedra-7325/loja-facil) | Python, Flask | E-commerce simplificado, com catálogo, carrinho baseado em sessão e checkout simulado. |
-| [suporte-bot](https://github.com/Rafael-Pedra-7325/suporte-bot) | Python, Flask | Chatbot de atendimento baseado em regras, com widget de chat web e reconhecimento de intenções. |
-| [python-consumo-api](https://github.com/Rafael-Pedra-7325/python-consumo-api) | Python | Consumo da API pública ViaCEP para busca de endereços. |
-| [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária com herança e exceções personalizadas. |
 
 </details>
 
 <details>
-<summary><b>Front-end</b></summary>
+<summary><b>Back-end e APIs (4)</b></summary>
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api) | Python, Flask, JWT | API REST para gestão de acervo e empréstimos, com autenticação JWT e testes automatizados. |
+| [adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api) | Python, Flask, JWT | API REST para adoção de pets, com autenticação JWT, testes automatizados e integração contínua. |
+| [suporte-bot](https://github.com/Rafael-Pedra-7325/suporte-bot) | Python, Flask | Chatbot de atendimento baseado em regras, com widget de chat web e reconhecimento de intenções. |
+| [python-consumo-api](https://github.com/Rafael-Pedra-7325/python-consumo-api) | Python | Consumo da API pública ViaCEP para busca de endereços. |
+
+</details>
+
+<details>
+<summary><b>Front-end (2)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
@@ -66,24 +78,52 @@ Desenvolvedor Full Stack em formação e estudante de Ciência da Computação n
 </details>
 
 <details>
-<summary><b>Dados, IA, redes e banco de dados</b></summary>
+<summary><b>Banco de dados (2)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Ferramenta web de visão computacional clássica que extrai brilho, temperatura de cor e paleta dominante de imagens. |
-| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | Jogo da velha com IA invencível, usando o algoritmo Minimax. |
-| [radar-de-rede](https://github.com/Rafael-Pedra-7325/radar-de-rede) | Python | Analisador de logs de rede que detecta padrões suspeitos, como port scan e força bruta. |
+| [edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api) | Python, FastAPI, SQLAlchemy, SQL | Modelagem relacional avançada (triggers, procedures e índices) integrada a uma API assíncrona. |
 | [sql-biblioteca](https://github.com/Rafael-Pedra-7325/sql-biblioteca) | SQL | Banco de dados relacional de uma biblioteca, com joins e agregações. |
 
 </details>
 
 <details>
-<summary><b>Fundamentos: lógica, algoritmos e estruturas de dados</b></summary>
+<summary><b>Programação orientada a objetos (3)</b></summary>
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [java-calculadora-oop](https://github.com/Rafael-Pedra-7325/java-calculadora-oop) | Java | Calculadora de console estruturada em programação orientada a objetos. |
+| [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária com herança e exceções personalizadas. |
+| [agenda-clinica-java](https://github.com/Rafael-Pedra-7325/agenda-clinica-java) | Java | Agendamento de consultas, com verificação de conflito de horário e exportação de relatórios em CSV. |
+
+</details>
+
+<details>
+<summary><b>Dados e inteligência artificial (3)</b></summary>
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard estático sobre ocorrências de trânsito no DF (dados sintéticos). |
+| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | Jogo da velha com IA invencível, usando o algoritmo Minimax. |
+| [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Ferramenta web de visão computacional clássica que extrai brilho, temperatura de cor e paleta dominante de imagens. |
+
+</details>
+
+<details>
+<summary><b>Redes e segurança (1)</b></summary>
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| [radar-de-rede](https://github.com/Rafael-Pedra-7325/radar-de-rede) | Python | Analisador de logs de rede que detecta padrões suspeitos, como port scan e força bruta. |
+
+</details>
+
+<details>
+<summary><b>Lógica de programação e algoritmos (4)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
 | [python-todo-cli](https://github.com/Rafael-Pedra-7325/python-todo-cli) | Python | Lista de tarefas em linha de comando, com persistência em JSON. |
-| [java-calculadora-oop](https://github.com/Rafael-Pedra-7325/java-calculadora-oop) | Java | Calculadora de console estruturada em programação orientada a objetos. |
 | [c-media-notas](https://github.com/Rafael-Pedra-7325/c-media-notas) | C | Cálculo de média de notas de alunos, usando structs e vetores. |
 | [python-algoritmos](https://github.com/Rafael-Pedra-7325/python-algoritmos) | Python | Fibonacci, fatorial, ordenação e busca binária implementados do zero. |
 | [python-estruturas-dados](https://github.com/Rafael-Pedra-7325/python-estruturas-dados) | Python | Implementação manual de pilha (LIFO) e fila (FIFO). |
