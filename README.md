@@ -23,7 +23,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 | **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Solução back-end segura para automação de bibliotecas, reduzindo atritos na gestão de acervo e empréstimos usando autenticação baseada em tokens. |  |
 | **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Plataforma de conexão para adoção de pets, construída com CI/CD (integração contínua) para garantir implantações confiáveis e testes automatizados consistentes. |  |
 | **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Dashboard de inteligência financeira pessoal que facilita o rastreamento de despesas usando visualizações interativas de dados renderizadas em Canvas. | [🌐 Live Demo](#) |
-| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Ferramenta analítica que transforma dados brutos de incidentes de trânsito em insights visuais acionáveis através de um pipeline de dados automatizado. | [🌐 Live Demo](#) |
+| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Ferramenta analítica que transforma dados brutos de incidentes de trânsito em insights visuais acionáveis através de um pipeline de dados automatizado. | [🌐 Live Demo](rafael-pedra-7325.github.io/df-em-numeros-dashboard/) |
 
 ---
 
