@@ -23,7 +23,7 @@ I am actively looking for an internship or junior IT position (Development, Data
 | **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Secure back-end solution for library automation, reducing friction in collection and loan management using token-based authentication. |  |
 | **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Connection platform for pet adoption, built with CI/CD (continuous integration) to ensure reliable deployments and consistent automated testing. |  |
 | **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Personal finance intelligence dashboard that facilitates expense tracking using interactive data visualizations rendered in Canvas. | [🌐 Live Demo](#) |
-| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Analytical tool that transforms raw traffic incident data into actionable visual insights through an automated data pipeline. | [🌐 Live Demo](rafael-pedra-7325.github.io/df-em-numeros-dashboard/) |
+| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Analytical tool that transforms raw traffic incident data into actionable visual insights through an automated data pipeline. | [🌐 Live Demo](https://rafael-pedra-7325.github.io/df-em-numeros-dashboard/) |
 
 ---
 
