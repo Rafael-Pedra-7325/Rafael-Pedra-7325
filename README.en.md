@@ -18,12 +18,12 @@ I am actively looking for an internship or junior IT position (Development, Data
 
 | Project | Technologies | Problem Solved / Impact | Links |
 |---|---|---|---|
-| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Full Stack productivity platform that optimizes daily task management, demonstrating efficient consumption of asynchronous APIs on the front-end. | [🌐 Live Demo](#) <br> [💻 Code](#) |
-| **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Data engine for EdTechs with advanced relational modeling (triggers and indexes), ensuring educational data integrity and scalability. | [💻 Code](#) |
-| **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Secure back-end solution for library automation, reducing friction in collection and loan management using token-based authentication. | [💻 Code](#) |
-| **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Connection platform for pet adoption, built with CI/CD (continuous integration) to ensure reliable deployments and consistent automated testing. | [💻 Code](#) |
-| **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Personal finance intelligence dashboard that facilitates expense tracking using interactive data visualizations rendered in Canvas. | [🌐 Live Demo](#) <br> [💻 Code](#) |
-| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Analytical tool that transforms raw traffic incident data into actionable visual insights through an automated data pipeline. | [🌐 Live Demo](#) <br> [💻 Code](#) |
+| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Full Stack productivity platform that optimizes daily task management, demonstrating efficient consumption of asynchronous APIs on the front-end. | [🌐 Live Demo](#) |
+| **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Data engine for EdTechs with advanced relational modeling (triggers and indexes), ensuring educational data integrity and scalability. |  |
+| **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Secure back-end solution for library automation, reducing friction in collection and loan management using token-based authentication. |  |
+| **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Connection platform for pet adoption, built with CI/CD (continuous integration) to ensure reliable deployments and consistent automated testing. |  |
+| **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Personal finance intelligence dashboard that facilitates expense tracking using interactive data visualizations rendered in Canvas. | [🌐 Live Demo](#) |
+| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Analytical tool that transforms raw traffic incident data into actionable visual insights through an automated data pipeline. | [🌐 Live Demo](#) |
 
 ---
 
