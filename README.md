@@ -1,6 +1,9 @@
+[![Português](https://img.shields.io/badge/Português-008000?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-0000FF?style=for-the-badge)](README.en.md)
+
 # Olá, eu sou o Rafael Pedra 👋
 
-Desenvolvedor Full Stack em formação e estudante de Ciência da Computação no UniCEUB. Atuo como freelancer desde 2024, criando aplicações web, APIs REST e sistemas com banco de dados relacional. Busco estágio ou posição júnior em TI.
+Desenvolvedor Full Stack em formação e estudante de Ciência da Computação no UniCEUB. Atuo como freelancer desde 2024, desenvolvendo aplicações web, APIs REST escaláveis e sistemas robustos com modelagem relacional. Busco estágio ou posição júnior em TI para gerar impacto através de tecnologia.
 
 📍 Brasília, DF · 🎓 Bacharelado em Ciência da Computação (UniCEUB)
 
@@ -11,32 +14,44 @@ Desenvolvedor Full Stack em formação e estudante de Ciência da Computação n
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Tecnologias | O que é |
-|---|---|---|
-| [taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app) | JavaScript, Python, FastAPI, SQLAlchemy, SQLite | Sistema web Full Stack para gestão de tarefas, com front-end em JavaScript puro e API RESTful. |
-| [edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api) | Python, FastAPI, SQLAlchemy, SQL, Docker | Back-end conteinerizado para plataformas de ensino, com modelagem relacional (triggers, procedures e índices) e API assíncrona. |
-| [biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api) | Python, Flask, JWT | API REST para gestão de acervo e empréstimos de biblioteca, com autenticação JWT e testes automatizados. |
-| [adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api) | Python, Flask, JWT, GitHub Actions | API REST para adoção de pets, com autenticação JWT, testes automatizados e integração contínua. |
-| [gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco) | Python, Flask, JavaScript | Aplicação web Full Stack de controle financeiro pessoal, com gráfico de despesas em Canvas puro. |
-| [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard estático sobre ocorrências de trânsito no DF (dados sintéticos). |
+| Projeto | Tecnologias | O que resolve / Impacto | Links |
+|---|---|---|---|
+| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Plataforma de produtividade Full Stack que otimiza a gestão de tarefas diárias, demonstrando consumo eficiente de APIs assíncronas no front-end. | [🌐 Live Demo]([Link aqui]) <br> [💻 Código](#) |
+| **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade e escalabilidade de dados educacionais. | [💻 Código](#) |
+| **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Solução back-end segura para automação de bibliotecas, reduzindo atrito no controle de acervo e empréstimos utilizando autenticação baseada em tokens. | [💻 Código](#) |
+| **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Plataforma de conexão para adoção animal, construída com CI/CD (integração contínua) para garantir deploys confiáveis e testes automatizados consistentes. | [💻 Código](#) |
+| **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Dashboard de inteligência financeira pessoal que facilita o rastreamento de despesas utilizando visualizações de dados interativas renderizadas no Canvas. | [🌐 Live Demo]([Link aqui]) <br> [💻 Código](#) |
+| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Ferramenta analítica que transforma dados brutos de ocorrências de trânsito no DF em insights visuais acionáveis através de um pipeline de dados automatizado. | [🌐 Live Demo]([Link aqui]) <br> [💻 Código](#) |
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens:** Python · Java · C · C++ · JavaScript · SQL · HTML5 · CSS3
+**Linguagens** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Back-end e APIs:** Flask · FastAPI · SQLAlchemy · REST · JWT · CRUD · integração com APIs externas
+**Back-end & APIs** <br>
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Front-end:** HTML · CSS · JavaScript · design responsivo · Flexbox · CSS Grid · Chart.js
+**Front-end & Visualização** <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-**Banco de dados:** modelagem ER · normalização · SQL (DDL, DML, DQL) · joins · views · stored procedures · índices
-
-**Engenharia de software:** POO · UML · testes unitários e de integração · arquitetura de software · Scrum · Kanban
-
-**Ferramentas:** Git · GitHub · GitHub Actions · Docker · Linux · VS Code · PyCharm · Power BI
-
-**Dados e IA:** pandas · análise exploratória · estatística · busca heurística · lógica fuzzy · PROLOG · visão computacional
+**Engenharia de Software, DevOps & Dados** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -73,60 +88,60 @@ Os repositórios estão agrupados por área de conhecimento. Abra cada seção p
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
 | [js-todo-dom](https://github.com/Rafael-Pedra-7325/js-todo-dom) | JavaScript | Lista de tarefas web com manipulação de DOM e localStorage. |
-| [html-css-landing-portfolio](https://github.com/Rafael-Pedra-7325/html-css-landing-portfolio) | HTML, CSS | Landing page responsiva com Flexbox e CSS Grid. |
+| [html-css-landing-portfolio](https://github.com/Rafael-Pedra-7325/html-css-landing-portfolio) | HTML, CSS | Landing page responsiva construída com Flexbox e CSS Grid. |
 
 </details>
 
 <details>
-<summary><b>Banco de dados (2)</b></summary>
+<summary><b>Banco de Dados (2)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api) | Python, FastAPI, SQLAlchemy, SQL | Modelagem relacional avançada (triggers, procedures e índices) integrada a uma API assíncrona. |
-| [sql-biblioteca](https://github.com/Rafael-Pedra-7325/sql-biblioteca) | SQL | Banco de dados relacional de uma biblioteca, com joins e agregações. |
+| [edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api) | Python, FastAPI, SQL | Modelagem relacional avançada (triggers, procedures e índices) integrada a uma API assíncrona. |
+| [sql-biblioteca](https://github.com/Rafael-Pedra-7325/sql-biblioteca) | SQL | Banco de dados relacional de uma biblioteca, focado em otimização de consultas e agregações. |
 
 </details>
 
 <details>
-<summary><b>Programação orientada a objetos (3)</b></summary>
+<summary><b>Programação Orientada a Objetos (3)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [java-calculadora-oop](https://github.com/Rafael-Pedra-7325/java-calculadora-oop) | Java | Calculadora de console estruturada em programação orientada a objetos. |
-| [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária com herança e exceções personalizadas. |
-| [agenda-clinica-java](https://github.com/Rafael-Pedra-7325/agenda-clinica-java) | Java | Agendamento de consultas, com verificação de conflito de horário e exportação de relatórios em CSV. |
+| [java-calculadora-oop](https://github.com/Rafael-Pedra-7325/java-calculadora-oop) | Java | Calculadora de console com foco em princípios SOLID. |
+| [java-conta-bancaria-poo](https://github.com/Rafael-Pedra-7325/java-conta-bancaria-poo) | Java | Sistema de conta bancária focado em encapsulamento, herança e exceções personalizadas. |
+| [agenda-clinica-java](https://github.com/Rafael-Pedra-7325/agenda-clinica-java) | Java | Agendamento de consultas com verificação de conflitos de horário e relatórios exportáveis. |
 
 </details>
 
 <details>
-<summary><b>Dados e inteligência artificial (3)</b></summary>
+<summary><b>Dados e Inteligência Artificial (3)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard estático sobre ocorrências de trânsito no DF (dados sintéticos). |
-| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | Jogo da velha com IA invencível, usando o algoritmo Minimax. |
-| [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Ferramenta web de visão computacional clássica que extrai brilho, temperatura de cor e paleta dominante de imagens. |
+| [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard sobre ocorrências de trânsito no DF. |
+| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | IA para jogo da velha utilizando o algoritmo Minimax para prever jogadas. |
+| [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Extração e análise de brilho, temperatura e paleta de cores via Visão Computacional clássica. |
 
 </details>
 
 <details>
-<summary><b>Redes e segurança (1)</b></summary>
+<summary><b>Redes e Segurança (1)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [radar-de-rede](https://github.com/Rafael-Pedra-7325/radar-de-rede) | Python | Analisador de logs de rede que detecta padrões suspeitos, como port scan e força bruta. |
+| [radar-de-rede](https://github.com/Rafael-Pedra-7325/radar-de-rede) | Python | Analisador de logs de rede projetado para detectar anomalias, port scans e tentativas de força bruta. |
 
 </details>
 
 <details>
-<summary><b>Lógica de programação e algoritmos (4)</b></summary>
+<summary><b>Lógica de Programação e Algoritmos (4)</b></summary>
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| [python-todo-cli](https://github.com/Rafael-Pedra-7325/python-todo-cli) | Python | Lista de tarefas em linha de comando, com persistência em JSON. |
-| [c-media-notas](https://github.com/Rafael-Pedra-7325/c-media-notas) | C | Cálculo de média de notas de alunos, usando structs e vetores. |
-| [python-algoritmos](https://github.com/Rafael-Pedra-7325/python-algoritmos) | Python | Fibonacci, fatorial, ordenação e busca binária implementados do zero. |
-| [python-estruturas-dados](https://github.com/Rafael-Pedra-7325/python-estruturas-dados) | Python | Implementação manual de pilha (LIFO) e fila (FIFO). |
+| [python-todo-cli](https://github.com/Rafael-Pedra-7325/python-todo-cli) | Python | Lista de tarefas via CLI com persistência estruturada de arquivos em JSON. |
+| [c-media-notas](https://github.com/Rafael-Pedra-7325/c-media-notas) | C | Algoritmo de processamento de notas com alocação e structs em C. |
+| [python-algoritmos](https://github.com/Rafael-Pedra-7325/python-algoritmos) | Python | Implementação core de busca binária e algoritmos de ordenação e recursão. |
+| [python-estruturas-dados](https://github.com/Rafael-Pedra-7325/python-estruturas-dados) | Python | Modelagem do zero de estruturas de dados clássicas: pilhas (LIFO) e filas (FIFO). |
 
 </details>
 
