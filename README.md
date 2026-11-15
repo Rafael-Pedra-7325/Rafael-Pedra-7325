@@ -18,7 +18,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 
 | Projeto | Tecnologias | Problema Resolvido / Impacto | Links |
 |---|---|---|---|
-| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Plataforma Full Stack de produtividade que otimiza a gestão diária de tarefas, demonstrando consumo eficiente de APIs assíncronas no front-end. | [🌐 Live Demo](#) |
+| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Plataforma Full Stack de produtividade que otimiza a gestão diária de tarefas, demonstrando consumo eficiente de APIs assíncronas no front-end. | [🌐 Live Demo](https://taskmaster-web-app-frontend.vercel.app) |
 | **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade de dados educacionais e escalabilidade. |  |
 | **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Solução back-end segura para automação de bibliotecas, reduzindo atritos na gestão de acervo e empréstimos usando autenticação baseada em tokens. |  |
 | **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Plataforma de conexão para adoção de pets, construída com CI/CD (integração contínua) para garantir implantações confiáveis e testes automatizados consistentes. |  |
