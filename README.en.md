@@ -18,6 +18,7 @@ I am actively looking for an internship or junior IT position (Development, Data
 
 | Project | Technologies | Problem Solved / Impact | Links |
 |---|---|---|---|
+| **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | AI assistant (RAG) for querying PDFs featuring vector search, page-aware chunking, and hallucination-resistant answers with exact source citations. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
 | **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Full Stack productivity platform that optimizes daily task management, demonstrating efficient consumption of asynchronous APIs on the front-end. | [🌐 Live Demo](https://taskmaster-web-app-frontend.vercel.app) |
 | **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Data engine for EdTechs with advanced relational modeling (triggers and indexes), ensuring educational data integrity and scalability. |  |
 | **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Secure back-end solution for library automation, reducing friction in collection and loan management using token-based authentication. |  |
