@@ -19,6 +19,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 | Projeto | Tecnologias | Problema Resolvido / Impacto | Links |
 |---|---|---|---|
 | **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | Assistente de IA (RAG) para consulta de PDFs com busca vetorial, chunking por página e respostas anti-alucinação com citação exata da fonte. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
+| **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, com suíte de avaliação por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
 | **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Plataforma Full Stack de produtividade que otimiza a gestão diária de tarefas, demonstrando consumo eficiente de APIs assíncronas no front-end. | [🌐 Live Demo](https://taskmaster-web-app-frontend.vercel.app) |
 | **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade de dados educacionais e escalabilidade. |  |
 | **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Solução back-end segura para automação de bibliotecas, reduzindo atritos na gestão de acervo e empréstimos usando autenticação baseada em tokens. |  |
@@ -125,10 +126,11 @@ Os repositórios estão agrupados por domínio técnico para facilitar a navega�
 </details>
 
 <details>
-<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (3)</b></summary>
+<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (4)</b></summary>
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
+| [analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery) | Python, SQL, SQLite, LLMs, Matplotlib | Sistema Text-to-SQL que transforma perguntas em linguagem natural em consultas SQLite seguras, tabelas e gráficos automáticos, com benchmark de 62 casos. |
 | [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard analítico rastreando incidentes de trânsito no Distrito Federal. |
 | [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | IA utilizando o algoritmo Minimax (Busca Heurística) para prever e contra-atacar jogadas. |
 | [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Extração e análise de brilho e paletas de cores através de Visão Computacional. |
