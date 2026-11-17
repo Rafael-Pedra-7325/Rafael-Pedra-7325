@@ -18,6 +18,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 
 | Projeto | Tecnologias | Problema Resolvido / Impacto | Links |
 |---|---|---|---|
+| **[nexusgate-llm-gateway](https://github.com/Rafael-Pedra-7325/nexusgate-llm-gateway)** | Python, FastAPI, React, TypeScript, Docker, LLMs | Gateway de LLMs compatível com OpenAI SDK com roteamento dinâmico por complexidade/custo, cache semântico vetorial (~2ms), failover automático com Circuit Breaker e painel de telemetria em tempo real. | [🌐 Live Demo](https://nexusgate-llm-gateway.onrender.com) |
 | **[agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas)** | Python, TypeScript, SQLite, LLMs, Function Calling | Agente autônomo com loop explícito de Function Calling, SQL somente leitura (dupla camada de bloqueio), busca documental, calculadora segura via AST (sem `eval`), limite de passos e inspetor de trace ao vivo. | [🌐 Live Demo](https://rafael-pedra-7325.github.io/agente-com-ferramentas/) |
 | **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | Assistente de IA (RAG) para consulta de PDFs com busca vetorial, chunking por página e respostas anti-alucinação com citação exata da fonte. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
 | **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, com suíte de avaliação por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
@@ -49,6 +50,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **Front-end & UX/UI** <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -129,10 +131,11 @@ Os repositórios estão agrupados por domínio técnico para facilitar a navega�
 </details>
 
 <details>
-<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (6)</b></summary>
+<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (7)</b></summary>
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
+| [nexusgate-llm-gateway](https://github.com/Rafael-Pedra-7325/nexusgate-llm-gateway) | Python, FastAPI, React, TypeScript, SQLite, Docker | Proxy de LLMs com roteamento por custo e complexidade, cache semântico por similaridade de cosseno, fallback multi-provedor e observabilidade de tokens/latência. |
 | [agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas) | Python, TypeScript, SQLite, LLMs | Agente com loop de Function Calling, guardrails de SQL somente leitura, calculadora segura via AST, limite de passos (`max_steps`) e observabilidade de trace. |
 | [benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao) | Python, FastAPI, scikit-learn, LLMs, Docker | Benchmark de classificação de intenções (TF-IDF vs. LSA vs. Embeddings vs. LLM zero-shot) medindo trade-off entre acurácia, latência e custo, com split sem vazamento. |
 | [analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery) | Python, SQL, SQLite, LLMs, Matplotlib | Sistema Text-to-SQL que transforma perguntas em linguagem natural em consultas SQLite seguras, tabelas e gráficos automáticos, com benchmark de 62 casos. |
