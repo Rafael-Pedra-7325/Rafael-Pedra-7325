@@ -18,6 +18,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 
 | Projeto | Tecnologias | Problema Resolvido / Impacto | Links |
 |---|---|---|---|
+| **[agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas)** | Python, TypeScript, SQLite, LLMs, Function Calling | Agente autônomo com loop explícito de Function Calling, SQL somente leitura (dupla camada de bloqueio), busca documental, calculadora segura via AST (sem `eval`), limite de passos e inspetor de trace ao vivo. | [🌐 Live Demo](https://rafael-pedra-7325.github.io/agente-com-ferramentas/) |
 | **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | Assistente de IA (RAG) para consulta de PDFs com busca vetorial, chunking por página e respostas anti-alucinação com citação exata da fonte. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
 | **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, com suíte de avaliação por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
 | **[benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao)** | Python, FastAPI, scikit-learn, LLMs, Docker | Benchmark controlado de NLP (classificação de intenções) que compara TF-IDF, LSA, Embeddings e LLM zero-shot em acurácia (IC por clusters), latência p50/p95 e custo por 1.000 predições, com playground ao vivo. | [🌐 Live Demo](https://benchmark-de-intencao.onrender.com) |
@@ -38,6 +39,7 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Back-end, APIs e Integração** <br>
@@ -127,10 +129,11 @@ Os repositórios estão agrupados por domínio técnico para facilitar a navega�
 </details>
 
 <details>
-<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (5)</b></summary>
+<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (6)</b></summary>
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
+| [agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas) | Python, TypeScript, SQLite, LLMs | Agente com loop de Function Calling, guardrails de SQL somente leitura, calculadora segura via AST, limite de passos (`max_steps`) e observabilidade de trace. |
 | [benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao) | Python, FastAPI, scikit-learn, LLMs, Docker | Benchmark de classificação de intenções (TF-IDF vs. LSA vs. Embeddings vs. LLM zero-shot) medindo trade-off entre acurácia, latência e custo, com split sem vazamento. |
 | [analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery) | Python, SQL, SQLite, LLMs, Matplotlib | Sistema Text-to-SQL que transforma perguntas em linguagem natural em consultas SQLite seguras, tabelas e gráficos automáticos, com benchmark de 62 casos. |
 | [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard analítico rastreando incidentes de trânsito no Distrito Federal. |
