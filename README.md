@@ -3,11 +3,11 @@
 
 # Olá, eu sou Rafael Pedra 👋
 
-Estudante de Ciência da Computação (UniCEUB) e Desenvolvedor Full Stack. Atuo como freelancer desde 2024, criando aplicações web, APIs REST escaláveis e sistemas robustos com modelagem relacional. Atualmente, trabalho como Assistente Administrativo na Vivo, onde aplico lógica e análise de dados para otimizar processos, gerar relatórios corporativos e resolver problemas diários. 
+Estudante de Ciência da Computação (UniCEUB, conclusão em dez/2027) e Desenvolvedor Full Stack com foco em **Engenharia de IA Generativa, Back-end e Dados**. Construo sistemas de IA prontos para produção — incluindo gateways de LLMs com cache semântico, agentes com Function Calling, pipelines RAG e Text-to-SQL com avaliação automatizada (evals) — utilizando Python, FastAPI, TypeScript e Docker.
 
-Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, Dados, QA, Infraestrutura ou Suporte) onde eu possa gerar impacto através da tecnologia.
+Busco oportunidade de estágio em **Engenharia de IA (AI Engineer), Machine Learning ou Engenharia de Software Back-end/Dados**.
 
-📍 Brasília, DF, Brasil · 🎓 Bacharelado em Ciência da Computação (UniCEUB)· 🗣️ Português, Inglês e Espanhol
+📍 Brasília, DF, Brasil · 🎓 Bacharelado em Ciência da Computação (UniCEUB) · 🗣️ Português, Inglês e Espanhol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pedra-833930166)
 [![Email](https://img.shields.io/badge/E--mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:rafaelfspedra@yahoo.com.br)
@@ -18,18 +18,12 @@ Busco uma oportunidade de estágio ou posição júnior em TI (Desenvolvimento, 
 
 | Projeto | Tecnologias | Problema Resolvido / Impacto | Links |
 |---|---|---|---|
-| **[nexusgate-llm-gateway](https://github.com/Rafael-Pedra-7325/nexusgate-llm-gateway)** | Python, FastAPI, React, TypeScript, Docker, LLMs | Gateway de LLMs compatível com OpenAI SDK com roteamento dinâmico por complexidade/custo, cache semântico vetorial (~2ms), failover automático com Circuit Breaker e painel de telemetria em tempo real. | [🌐 Live Demo](https://nexusgate-llm-gateway.onrender.com) |
+| **[nexusgate-llm-gateway](https://github.com/Rafael-Pedra-7325/nexusgate-llm-gateway)** | Python, FastAPI, React, TypeScript, Docker, LLMs | Gateway de LLMs compatível com OpenAI SDK com roteamento dinâmico por complexidade/custo, cache semântico vetorial (`~2ms`), failover automático com Circuit Breaker e painel de telemetria em tempo real. | [🌐 Live Demo](https://nexusgate-llm-gateway.onrender.com) |
 | **[agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas)** | Python, TypeScript, SQLite, LLMs, Function Calling | Agente autônomo com loop explícito de Function Calling, SQL somente leitura (dupla camada de bloqueio), busca documental, calculadora segura via AST (sem `eval`), limite de passos e inspetor de trace ao vivo. | [🌐 Live Demo](https://rafael-pedra-7325.github.io/agente-com-ferramentas/) |
+| **[benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao)** | Python, FastAPI, scikit-learn, NumPy, LLMs, Docker | Benchmark controlado de NLP (classificação de intenções) comparando TF-IDF, LSA, Embeddings e LLM zero-shot em acurácia (IC por clusters), latência `p50/p95` e custo por 1.000 predições, com split sem vazamento. | [🌐 Live Demo](https://benchmark-de-intencao.onrender.com) |
+| **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, avaliado em benchmark de 62 casos por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
 | **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | Assistente de IA (RAG) para consulta de PDFs com busca vetorial, chunking por página e respostas anti-alucinação com citação exata da fonte. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
-| **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, com suíte de avaliação por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
-| **[benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao)** | Python, FastAPI, scikit-learn, LLMs, Docker | Benchmark controlado de NLP (classificação de intenções) que compara TF-IDF, LSA, Embeddings e LLM zero-shot em acurácia (IC por clusters), latência p50/p95 e custo por 1.000 predições, com playground ao vivo. | [🌐 Live Demo](https://benchmark-de-intencao.onrender.com) |
-| **[taskmaster-web-app](https://github.com/Rafael-Pedra-7325/taskmaster-web-app)** | JavaScript, Python, FastAPI, SQLite | Plataforma Full Stack de produtividade que otimiza a gestão diária de tarefas, demonstrando consumo eficiente de APIs assíncronas no front-end. | [🌐 Live Demo](https://taskmaster-web-app-frontend.vercel.app) |
-| **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade de dados educacionais e escalabilidade. |  |
-| **[biblio-sync-api](https://github.com/Rafael-Pedra-7325/biblio-sync-api)** | Python, Flask, JWT | Solução back-end segura para automação de bibliotecas, reduzindo atritos na gestão de acervo e empréstimos usando autenticação baseada em tokens. |  |
-| **[adota-pet-api](https://github.com/Rafael-Pedra-7325/adota-pet-api)** | Python, Flask, GitHub Actions | Plataforma de conexão para adoção de pets, construída com CI/CD (integração contínua) para garantir implantações confiáveis e testes automatizados consistentes. |  |
-| **[gastos-em-foco](https://github.com/Rafael-Pedra-7325/gastos-em-foco)** | Python, Flask, JavaScript | Dashboard de inteligência financeira pessoal que facilita o rastreamento de despesas usando visualizações interativas de dados renderizadas em Canvas. | [🌐 Live Demo](#) |
-| **[df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard)** | Python, pandas, Chart.js | Ferramenta analítica que transforma dados brutos de incidentes de trânsito em insights visuais acionáveis através de um pipeline de dados automatizado. | [🌐 Live Demo](https://rafael-pedra-7325.github.io/df-em-numeros-dashboard/) |
-
+| **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade de dados educacionais e escalabilidade. | — |
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
