@@ -23,7 +23,10 @@ Busco oportunidade de estágio em **Engenharia de IA (AI Engineer), Machine Lear
 | **[benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao)** | Python, FastAPI, scikit-learn, NumPy, LLMs, Docker | Benchmark controlado de NLP (classificação de intenções) comparando TF-IDF, LSA, Embeddings e LLM zero-shot em acurácia (IC por clusters), latência `p50/p95` e custo por 1.000 predições, com split sem vazamento. | [🌐 Live Demo](https://benchmark-de-intencao.onrender.com) |
 | **[analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery)** | Python, SQL, SQLite, LLMs, Docker | Analista de dados com IA (Text-to-SQL) que converte perguntas em português em consultas SQL validadas (3 camadas de segurança), tabelas e gráficos automáticos, avaliado em benchmark de 62 casos por execução. | [🌐 Live Demo](https://analista-sql-delivery.onrender.com) |
 | **[rag-documentos](https://github.com/Rafael-Pedra-7325/rag-documentos)** | Python, FastAPI, RAG, LLMs, Docker | Assistente de IA (RAG) para consulta de PDFs com busca vetorial, chunking por página e respostas anti-alucinação com citação exata da fonte. | [🌐 Live Demo](https://rag-documentos.onrender.com) |
+| **[xadrez-ia-minimax](https://github.com/Rafael-Pedra-7325/xadrez-ia-minimax)** | Python, Flask, JavaScript, Minimax, Alfa-Beta | Motor de IA para xadrez (`python-chess`) com Minimax, Poda Alfa-Beta, Busca de Quiescência, Tabela de Transposição (Zobrist), ordenação tática MVV-LVA, barra de avaliação e visão Raio-X em tempo real. | [🌐 Live Demo](https://xadrez-ia-minimax.onrender.com) |
+| **[jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel)** | Python, Flask, JavaScript, Minimax, MCTS | Aplicação Web e CLI com IA invencível baseada em Minimax + Poda Alfa-Beta (modo clássico) e Monte Carlo Tree Search com UCB1 (Super Jogo da Velha), com telemetria de nós e visão Raio-X. | [🌐 Live Demo](https://jogo-da-velha-imbativel.onrender.com) |
 | **[edu-platform-database-api](https://github.com/Rafael-Pedra-7325/edu-platform-database-api)** | Python, FastAPI, SQL, Docker | Motor de dados para EdTechs com modelagem relacional avançada (triggers e índices), garantindo integridade de dados educacionais e escalabilidade. | — |
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -125,7 +128,7 @@ Os repositórios estão agrupados por domínio técnico para facilitar a navega�
 </details>
 
 <details>
-<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (7)</b></summary>
+<summary><b>📊 Análise de Dados, BI & Inteligência Artificial (8)</b></summary>
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
@@ -133,8 +136,9 @@ Os repositórios estão agrupados por domínio técnico para facilitar a navega�
 | [agente-com-ferramentas](https://github.com/Rafael-Pedra-7325/agente-com-ferramentas) | Python, TypeScript, SQLite, LLMs | Agente com loop de Function Calling, guardrails de SQL somente leitura, calculadora segura via AST, limite de passos (`max_steps`) e observabilidade de trace. |
 | [benchmark-de-intencao](https://github.com/Rafael-Pedra-7325/benchmark-de-intencao) | Python, FastAPI, scikit-learn, LLMs, Docker | Benchmark de classificação de intenções (TF-IDF vs. LSA vs. Embeddings vs. LLM zero-shot) medindo trade-off entre acurácia, latência e custo, com split sem vazamento. |
 | [analista-sql-delivery](https://github.com/Rafael-Pedra-7325/analista-sql-delivery) | Python, SQL, SQLite, LLMs, Matplotlib | Sistema Text-to-SQL que transforma perguntas em linguagem natural em consultas SQLite seguras, tabelas e gráficos automáticos, com benchmark de 62 casos. |
+| [xadrez-ia-minimax](https://github.com/Rafael-Pedra-7325/xadrez-ia-minimax) | Python, Flask, JavaScript | IA de xadrez utilizando Minimax com Poda Alfa-Beta, Busca de Quiescência, Tabela de Transposição (Zobrist) e heurística MVV-LVA ([Live Demo](https://xadrez-ia-minimax.onrender.com)). |
 | [df-em-numeros-dashboard](https://github.com/Rafael-Pedra-7325/df-em-numeros-dashboard) | Python, pandas, Chart.js | Pipeline de dados e dashboard analítico rastreando incidentes de trânsito no Distrito Federal. |
-| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python | IA utilizando o algoritmo Minimax (Busca Heurística) para prever e contra-atacar jogadas. |
+| [jogo-da-velha-imbativel](https://github.com/Rafael-Pedra-7325/jogo-da-velha-imbativel) | Python, Flask, JavaScript | IA utilizando Minimax com Poda Alfa-Beta (clássico) e MCTS com UCB1 (Super Jogo da Velha) ([Live Demo](https://jogo-da-velha-imbativel.onrender.com)). |
 | [classificador-visual-cv](https://github.com/Rafael-Pedra-7325/classificador-visual-cv) | Python, Flask | Extração e análise de brilho e paletas de cores através de Visão Computacional. |
 </details>
 
